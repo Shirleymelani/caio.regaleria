@@ -172,5 +172,15 @@ justify-content: space-around;
 
 }
 
+/*REMERAS*/
+.inic h1{
+ text-align: center;
+ padding: 50px;
+}
+ .card{
+    background-color: transparent;
+    border: 0px;
+ }
 
+ 
 
