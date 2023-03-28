@@ -1,0 +1,17 @@
+{
+  "name": "caio.regaleria",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sas": "^3.0.4",
+    "sass": "^1.59.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
