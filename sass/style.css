@@ -20,13 +20,16 @@ body {
   display: flex;
   align-items: center;
 }
+
 .menu ul li {
   margin-right: 1.5rem;
 }
+
 .menu ul li a {
   text-decoration: none;
   color: black;
 }
+
 .menu ul li:hover {
   color: rgb(0, 162, 255);
 }
@@ -56,10 +59,7 @@ header {
   margin-top: 50px;
   background-color: rgb(87, 181, 236);
   border-radius: 150px;
-
- /*text-decoration:underline;
-text-decoration-color: rgb(4, 37, 53); */
-
+  text-decoration: line-through;
 }
 
 .nombre h4 {
@@ -131,6 +131,6 @@ text-decoration-color: rgb(4, 37, 53); */
 
 .pro2 h2 {
   margin: 10px 0px 100px 200px;
-}
+} 
 
 /*# sourceMappingURL=style.css.map */
