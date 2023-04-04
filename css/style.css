@@ -26,6 +26,7 @@ body {
 .menu ul li a {
   text-decoration: none;
   color: black;
+  width: 100%;
 }
 .menu ul li:hover {
   color: rgb(0, 162, 255);
