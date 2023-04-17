@@ -10,7 +10,7 @@
 
 body {
   background: #e8e8e8;
-  background-image: url(../img/cielo2.jpg);
+  background-image: url(../media/cielo2.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -26,7 +26,6 @@ body {
 .menu ul li a {
   text-decoration: none;
   color: black;
-
 }
 .menu ul li:hover {
   color: rgb(0, 162, 255);
@@ -43,6 +42,10 @@ body {
   margin-top: 100px;
 }
 
+.background_color {
+  background-color: rgb(215, 242, 255);
+}
+
 header {
   background-color: rgb(215, 242, 255);
   display: flex;
@@ -57,10 +60,6 @@ header {
   margin-top: 50px;
   background-color: rgb(87, 181, 236);
   border-radius: 150px;
-
- /*text-decoration:underline;
-text-decoration-color: rgb(4, 37, 53); */
-
 }
 
 .nombre h4 {

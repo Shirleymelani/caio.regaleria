@@ -1,0 +1,6 @@
+#ignorar carpeta de node_modules
+node_modules 
+#ignorar archivo configuracion sass
+.sass-cache 
+#ignorar carpeta de notas
+NOTAS 
