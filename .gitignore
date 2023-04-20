@@ -4,3 +4,9 @@ node_modules
 .sass-cache 
 #ignorar carpeta de notas
 NOTAS 
+#ignorar package-lock.json
+package-lock-json
+#ignorar package.json
+packag.json
+#ignorar archivo de configuracion de vscode
+.vscode
