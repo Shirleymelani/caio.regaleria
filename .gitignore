@@ -10,3 +10,4 @@ package-lock-json
 packag.json
 #ignorar archivo de configuracion de vscode
 .vscode
+.gitignore
